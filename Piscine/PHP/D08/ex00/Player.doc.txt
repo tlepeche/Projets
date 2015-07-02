@@ -1,0 +1,13 @@
+<- Player -------------------------------------------------------------------------------
+Set a new player usable to create a new game. To create a new player, it needs an id
+and a player name (optional).
+
+- The function add_fleet take a instance Ship as parameter and add it to the player
+fleet.
+
+- The function play take a instance Ship as parameter and set it as played by the
+player.
+
+- The function destroy take a instance Ship as parameter and set it as destroyed
+in the player fleet
+------------------------------------------------------------------------------- Player ->

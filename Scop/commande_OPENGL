@@ -1,0 +1,9 @@
+commande shell a effectuer 1 seule fois dans le depot git:
+git submodule add https://github.com/glfw/glfw.git glfw
+
+Commande a mettre dans le Makefile
+git submodule init
+git submodule update
+cd glfw && cmake . && make
+
+

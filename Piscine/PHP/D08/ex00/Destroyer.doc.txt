@@ -1,0 +1,6 @@
+<- Destroyer ----------------------------------------------------------------------------
+The Destroyer class is a subclass of the Ship class. It initialize all the parameters
+requiered in the Ship class construct function except the name and id.
+
+For more information about this class function, refer to Ship.doc.txt.
+--------------------------------------------------------------------------- Destroyer ->

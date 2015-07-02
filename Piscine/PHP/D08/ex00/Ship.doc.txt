@@ -1,0 +1,26 @@
+<- Ship ---------------------------------------------------------------------------------
+Non-usable class created to built ship subclasses. The constructor take 12 parameters in
+his constructor to do so (id, name, width, lenght, pc, pp, speed, shield, maneuvre, x,
+y, orientation).
+
+- The 'move' function return TRUE if the move you're triying to do is possible or FALSE if
+it's not. It need the lenght of the move you're trying to do and the info about the ship's
+move during the previous turn as parameters.
+
+- The 'fire' function calculate the amount of damage dealt to the ennemy ship. It takes the
+distance between two ships and the amount of pp spent in the weapon as parameters.
+
+- The repair function calculate the amount of point the ships will heal. It takes the
+amount of pp spent in the ability to do so.
+
+-The 'shield_dmg' decrease the shield value based on how much damage it has taken. It takes
+the damages as parameter.
+
+-All parameters can be get using the function get (ex: getWidth)
+
+-It is possible to set the x, y, ori, shield, pc, pp and speed parameters with the set
+functions (ex: setSpeed); All these fonctions takes the amount you want to add as
+parameters, except setPp and setSpeed which set the varaiable as the amount you passed
+on parameter.
+The parameters for setOri are: 1 to turn right and -1 to turn left;
+--------------------------------------------------------------------------------- Ship ->
