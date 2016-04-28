@@ -6,11 +6,11 @@
 /*   By: tlepeche <tlepeche@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2014/11/03 19:24:53 by tlepeche          #+#    #+#             */
-/*   Updated: 2014/11/03 19:54:20 by tlepeche         ###   ########.fr       */
+/*   Updated: 2016/04/21 18:28:52 by tlepeche         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-int ft_tolower(int c)
+int	ft_tolower(int c)
 {
 	int a;
 

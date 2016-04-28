@@ -6,13 +6,13 @@
 /*   By: tlepeche <tlepeche@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2014/11/05 17:38:54 by tlepeche          #+#    #+#             */
-/*   Updated: 2014/11/07 01:54:18 by tlepeche         ###   ########.fr       */
+/*   Updated: 2016/04/21 18:21:36 by tlepeche         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
 
-void ft_strdel(char **as)
+void	ft_strdel(char **as)
 {
 	ft_memdel((void *)as);
 }

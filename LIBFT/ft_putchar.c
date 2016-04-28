@@ -6,13 +6,13 @@
 /*   By: tlepeche <tlepeche@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2014/11/03 12:04:55 by tlepeche          #+#    #+#             */
-/*   Updated: 2014/11/03 14:55:02 by tlepeche         ###   ########.fr       */
+/*   Updated: 2016/04/21 18:19:38 by tlepeche         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
 
-void ft_putchar(char c)
+void	ft_putchar(char c)
 {
-	write (1, &c, 1);
+	write(1, &c, 1);
 }

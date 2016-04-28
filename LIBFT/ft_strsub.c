@@ -6,13 +6,13 @@
 /*   By: tlepeche <tlepeche@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2014/11/04 21:23:59 by tlepeche          #+#    #+#             */
-/*   Updated: 2014/11/11 06:19:43 by tlepeche         ###   ########.fr       */
+/*   Updated: 2016/04/21 18:28:44 by tlepeche         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
 
-char *ft_strsub(char const *s, unsigned int start, size_t len)
+char	*ft_strsub(char const *s, unsigned int start, size_t len)
 {
 	char			*str;
 	unsigned int	a;

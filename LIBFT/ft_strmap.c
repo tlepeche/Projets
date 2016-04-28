@@ -6,13 +6,13 @@
 /*   By: tlepeche <tlepeche@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2014/11/04 21:13:27 by tlepeche          #+#    #+#             */
-/*   Updated: 2014/11/11 08:47:57 by tlepeche         ###   ########.fr       */
+/*   Updated: 2016/04/21 18:25:59 by tlepeche         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
 
-char *ft_strmap(char const *s, char (*f)(char))
+char	*ft_strmap(char const *s, char (*f)(char))
 {
 	int		a;
 	char	*str;

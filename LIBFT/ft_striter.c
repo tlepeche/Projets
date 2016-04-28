@@ -6,11 +6,11 @@
 /*   By: tlepeche <tlepeche@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2014/11/04 21:00:50 by tlepeche          #+#    #+#             */
-/*   Updated: 2014/11/11 06:08:20 by tlepeche         ###   ########.fr       */
+/*   Updated: 2016/04/21 18:23:06 by tlepeche         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-void ft_striter(char *s, void (*f)(char *))
+void	ft_striter(char *s, void (*f)(char *))
 {
 	int a;
 

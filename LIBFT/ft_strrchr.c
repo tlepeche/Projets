@@ -6,13 +6,13 @@
 /*   By: tlepeche <tlepeche@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2014/11/03 19:55:23 by tlepeche          #+#    #+#             */
-/*   Updated: 2014/11/10 06:06:48 by tlepeche         ###   ########.fr       */
+/*   Updated: 2016/04/21 18:29:11 by tlepeche         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
 
-char *ft_strrchr(const char *s, int c)
+char	*ft_strrchr(const char *s, int c)
 {
 	int		a;
 	char	conv;

@@ -6,13 +6,13 @@
 /*   By: tlepeche <tlepeche@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2014/11/03 21:14:33 by tlepeche          #+#    #+#             */
-/*   Updated: 2014/11/10 04:19:21 by tlepeche         ###   ########.fr       */
+/*   Updated: 2016/04/21 18:28:10 by tlepeche         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
 
-void ft_strclr(char *s)
+void	ft_strclr(char *s)
 {
 	int b;
 

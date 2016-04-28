@@ -6,11 +6,11 @@
 /*   By: tlepeche <tlepeche@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2014/11/03 19:24:53 by tlepeche          #+#    #+#             */
-/*   Updated: 2014/11/03 19:54:32 by tlepeche         ###   ########.fr       */
+/*   Updated: 2016/04/21 18:09:37 by tlepeche         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-int ft_toupper(int c)
+int	ft_toupper(int c)
 {
 	int a;
 

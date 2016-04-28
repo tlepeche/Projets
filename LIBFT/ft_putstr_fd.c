@@ -6,13 +6,13 @@
 /*   By: tlepeche <tlepeche@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2014/11/03 13:33:16 by tlepeche          #+#    #+#             */
-/*   Updated: 2014/11/04 18:54:53 by tlepeche         ###   ########.fr       */
+/*   Updated: 2016/04/21 18:27:38 by tlepeche         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
 
-void ft_putstr_fd(char const *s, int fd)
+void	ft_putstr_fd(char const *s, int fd)
 {
 	int	a;
 

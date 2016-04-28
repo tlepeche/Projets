@@ -6,13 +6,13 @@
 /*   By: tlepeche <tlepeche@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2014/11/03 14:41:20 by tlepeche          #+#    #+#             */
-/*   Updated: 2014/11/03 15:13:21 by tlepeche         ###   ########.fr       */
+/*   Updated: 2016/04/21 18:20:45 by tlepeche         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
 
-char *ft_strcat(char *s1, char const *s2)
+char	*ft_strcat(char *s1, char const *s2)
 {
 	int a;
 	int b;

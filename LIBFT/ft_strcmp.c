@@ -6,13 +6,13 @@
 /*   By: tlepeche <tlepeche@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2014/11/03 16:26:44 by tlepeche          #+#    #+#             */
-/*   Updated: 2014/11/10 23:48:25 by tlepeche         ###   ########.fr       */
+/*   Updated: 2016/04/21 18:22:50 by tlepeche         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
 
-int ft_strcmp(const char *s1, const char *s2)
+int	ft_strcmp(const char *s1, const char *s2)
 {
 	int	a;
 	int	result;

@@ -6,13 +6,13 @@
 /*   By: tlepeche <tlepeche@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2014/11/03 14:41:20 by tlepeche          #+#    #+#             */
-/*   Updated: 2014/11/04 14:50:36 by tlepeche         ###   ########.fr       */
+/*   Updated: 2016/04/21 18:26:55 by tlepeche         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
 
-char *ft_strncat(char *s1, char const *s2, size_t n)
+char	*ft_strncat(char *s1, char const *s2, size_t n)
 {
 	unsigned int	a;
 	unsigned int	b;

@@ -6,13 +6,13 @@
 /*   By: tlepeche <tlepeche@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2014/11/03 12:18:39 by tlepeche          #+#    #+#             */
-/*   Updated: 2014/11/11 06:39:43 by tlepeche         ###   ########.fr       */
+/*   Updated: 2016/04/21 18:28:34 by tlepeche         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
 
-size_t ft_strlen(const char *str)
+size_t	ft_strlen(const char *str)
 {
 	unsigned int a;
 

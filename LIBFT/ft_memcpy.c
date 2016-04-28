@@ -6,13 +6,13 @@
 /*   By: tlepeche <tlepeche@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2014/11/03 14:59:16 by tlepeche          #+#    #+#             */
-/*   Updated: 2015/01/14 17:06:44 by tlepeche         ###   ########.fr       */
+/*   Updated: 2016/04/21 18:23:37 by tlepeche         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
 
-void *ft_memcpy(void *dst, const void *src, size_t n)
+void	*ft_memcpy(void *dst, const void *src, size_t n)
 {
 	unsigned int	a;
 	unsigned char	*sdst;

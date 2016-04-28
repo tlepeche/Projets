@@ -6,11 +6,11 @@
 /*   By: tlepeche <tlepeche@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2014/11/03 18:43:03 by tlepeche          #+#    #+#             */
-/*   Updated: 2014/11/09 00:44:23 by tlepeche         ###   ########.fr       */
+/*   Updated: 2016/04/21 18:18:33 by tlepeche         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-int ft_isdigit(int c)
+int	ft_isdigit(int c)
 {
 	if (48 <= c && c <= 57)
 		return (1);

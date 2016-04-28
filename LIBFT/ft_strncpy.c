@@ -6,13 +6,13 @@
 /*   By: tlepeche <tlepeche@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2014/11/03 14:59:16 by tlepeche          #+#    #+#             */
-/*   Updated: 2014/11/11 06:46:05 by tlepeche         ###   ########.fr       */
+/*   Updated: 2016/04/21 18:24:26 by tlepeche         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
 
-char *ft_strncpy(char *dst, char *src, size_t n)
+char	*ft_strncpy(char *dst, char *src, size_t n)
 {
 	unsigned int	a;
 

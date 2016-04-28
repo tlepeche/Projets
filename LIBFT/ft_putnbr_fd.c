@@ -6,13 +6,13 @@
 /*   By: tlepeche <tlepeche@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2014/11/03 16:10:11 by tlepeche          #+#    #+#             */
-/*   Updated: 2014/11/12 06:54:43 by tlepeche         ###   ########.fr       */
+/*   Updated: 2016/04/21 18:20:29 by tlepeche         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
 
-void ft_putnbr_fd(int n, int fd)
+void	ft_putnbr_fd(int n, int fd)
 {
 	unsigned int num;
 

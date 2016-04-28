@@ -6,11 +6,11 @@
 /*   By: tlepeche <tlepeche@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2014/11/03 21:37:58 by tlepeche          #+#    #+#             */
-/*   Updated: 2014/11/09 08:08:44 by tlepeche         ###   ########.fr       */
+/*   Updated: 2016/04/21 18:23:50 by tlepeche         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-int ft_strequ(char const *s1, char const *s2)
+int	ft_strequ(char const *s1, char const *s2)
 {
 	int a;
 
